@@ -15,7 +15,7 @@ let songs = [
     time: "5:30",
   },
   {
-    songName: "Cielo-Huma-Huma",
+    songName: "Cielo-Huma",
     filePath: "songs/2.mp3",
     coverPath: "covers/2.jpg",
     time: "5:31",
